@@ -1,0 +1,30 @@
+_repo: There-She-Blows-The-Log-of-the-Arethusa_46390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46390-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Macy, William Hussey
+    aliases:
+    - Macy, W. H. (William Hussey)
+    - Macy, Wm. H. (William Hussey)
+    birthdate: 1826
+    deathdate: 1891
+    gutenberg_agent_id: '43755'
+    url: http://www.gutenberg.org/2009/agents/43755
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- !lcsh 'Whaling -- Fiction'
+title: There She Blows! Or, The Log of the Arethusa
+url: http://www.gutenberg.org/ebooks/46390
